@@ -11,13 +11,4 @@
 |2. | Trương Ngự Quyền | ... | ... |
 |3. | Hồng Nhi | ... | ... |
 |4. | Nguyễn Lê Thịnh | ... | ... |
----
-#### Giới thiệu
 
-#### Tính năng
-
-#### Công nghệ sử dụng
-
-#### Link trang web
-
-#### Good luck!

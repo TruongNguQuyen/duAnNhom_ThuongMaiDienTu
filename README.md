@@ -1,4 +1,4 @@
-# DỰ ÁN WEBSITE THƯƠNG MẠI ĐIỆN TỬ...
+# DỰ ÁN WEBSITE THƯƠNG MẠI ĐIỆN TỬ
 
 <div align="center">
     <img height="400" src="https://i.pinimg.com/originals/ff/fc/5a/fffc5a92c68455f331036891970b1fb9.gif"></img>

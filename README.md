@@ -14,7 +14,7 @@
 
 | STT |    Họ và tên     | MSSV | Chức vụ |
 | :-: | :--------------: | :--: | :-----: |
-| 1.  |     Vân Anh      | ...  |   ...   |
+| 1.  |     Hồ Vân Anh      | ...  |   ...   |
 | 2.  | Trương Ngự Quyền | 64131995 |   Thành viên  |
-| 3.  |     Hồng Nhi     | ...  |   ...   |
+| 3.  |     Nguyễn Thị Hồng Nhi     | ...  |   ...   |
 | 4.  | Nguyễn Lê Thịnh  | ...  |   ...   |

@@ -24,7 +24,7 @@
 - Lý do chọn chủ đề Website bán quần áo: phù hợp với đại đa số sở thích mua sắm của giới trẻ ngày nay, đặc biệt là thế hệ gen Z. Quần áo không chỉ để mặc để sưởi ấm, để làm việc mà còn dùng để làm đẹp, tôn vinh dáng vóc cơ thể. Nó gần gũi và luôn bên cạnh bản thân chúng ta. Ngày càng nhiều loại quần áo được ra đời để đáp ứng sở thích, thời trang, văn hóa của đại chúng. Vì thế, một website bán quần áo là một chủ đề tuy không mới nhưng luôn hấp dẫn trong thời buổi hiện nay.
 ## Công nghệ sử dụng
 * [Wordpress] - Công cụ kéo thả các block để xây dựng website
-* [Xampp] - Cung cấp các công cụ để tạo cơ sở dữ liệu, quản lý, lưu trữ, truy xuất dữ liệu 
+* [Xampp] - Cung cấp môi trường để tạo cơ sở dữ liệu, quản lý, lưu trữ, truy xuất dữ liệu 
 ## Đường dẫn website
 ## Video demo sản phẩm
 

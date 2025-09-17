@@ -26,3 +26,5 @@
 * [Wordpress] - Công cụ kéo thả các block để xây dựng website
 * [Xampp] - Cung cấp các công cụ để tạo cơ sở dữ liệu, quản lý, lưu trữ, truy xuất dữ liệu 
 ## Đường dẫn website
+## Video demo sản phẩm
+

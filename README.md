@@ -14,10 +14,10 @@
 
 | STT |    Họ và tên     | MSSV | Chức vụ |
 | :-: | :--------------: | :--: | :-----: |
-| 1.  |     Hồ Vân Anh      | ...  |   Thành viên   |
+| 1.  |     Hồ Vân Anh      | 65130065  |   Thành viên   |
 | 2.  | Trương Ngự Quyền | 64131995 |   Nhóm trưởng  |
-| 3.  |     Nguyễn Thị Hồng Nhi     | ...  |  Thành viên   |
-| 4.  | Nguyễn Lê Thịnh  | ...  |   Thành viên   |
+| 3.  |     Nguyễn Thị Hồng Nhi     | 65132472  |  Thành viên   |
+| 4.  | Nguyễn Lê Thịnh  | 64132299  |   Thành viên   |
 
 ## Giới thiệu
 - Giới thiệu chung:

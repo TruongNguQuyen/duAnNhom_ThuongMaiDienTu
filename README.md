@@ -18,3 +18,9 @@
 | 2.  | Trương Ngự Quyền | 64131995 |   Nhóm trưởng  |
 | 3.  |     Nguyễn Thị Hồng Nhi     | ...  |  Thành viên   |
 | 4.  | Nguyễn Lê Thịnh  | ...  |   Thành viên   |
+
+## Giới thiệu
+
+## Công nghệ sử dụng
+* [Wordpress] - Công cụ kéo thả các block để xây dựng website
+* [Xampp] - Cung cấp các công cụ để tạo cơ sở dữ liệu, quản lý, lưu trữ, truy xuất dữ liệu

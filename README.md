@@ -25,6 +25,11 @@
 ## Công nghệ sử dụng
 * [Wordpress] - Công cụ kéo thả các block để xây dựng website
 * [Xampp] - Cung cấp môi trường để tạo cơ sở dữ liệu, quản lý, lưu trữ, truy xuất dữ liệu
+## Các sơ đồ thiết kế
+1. UseCase diagram
+2. BFD
+4. DFD mức ngữ cảnh
+5. DFD mức 1
 ## Giao diện trang web 
 ## Đường dẫn website
 ## Video demo sản phẩm

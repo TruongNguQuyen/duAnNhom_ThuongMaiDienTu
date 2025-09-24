@@ -34,7 +34,7 @@
 1. UseCase diagram
 2. BFD
 <div align="center">
-    <img height="400" src="Images/BFD_TMDT_WSbanQuanAo.png"></img>
+    <img height="400" src="Images/BFDjbg.jpg"></img>
 </div>
 3. DFD mức ngữ cảnh
 <div align="center">

@@ -34,15 +34,19 @@
 1. UseCase diagram
 2. BFD
 <div align="center">
-    <img height="400" src="Images/BFDjbg.jpg"></img>
+    <img height="400" src="Images/BFD_PD.jpg"></img>
 </div>
 3. DFD mức ngữ cảnh
 <div align="center">
-    <img height="400" src="Images/DFD0dachinhsua.png"></img>
+    <img height="400" src="Images/DFD0_PD.jpg"></img>
 </div>
 4. DFD mức 1
 <div align="center">
-    <img height="400" src="Images/DFD1.png"></img>
+    <img height="400" src="Images/DFD1_PD.jpg"></img>
+</div>
+5. DFD mức 2 (chức năng quản lý đơn hàng)
+<div align="center">
+    <img height="400" src="Images/DFD2_PD.jpg"></img>
 </div>
 
 ## Giao diện trang web

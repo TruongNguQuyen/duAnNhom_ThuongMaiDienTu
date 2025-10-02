@@ -50,7 +50,8 @@
 </div>
 
 ## Giao diện trang web
-
+Sắp có...
 ## Đường dẫn website
-
+Sắp có...
 ## Video demo sản phẩm
+Sắp có...

@@ -60,6 +60,10 @@
 <div align="center">
     <img height="400" src="Images/DFD2_PD_QLND.png"></img>
 </div>
+9. DFD mức 2 (chức năng báo cáo & thống kê)
+<div align="center">
+    <img height="400" src="Images/DFD2_PD_BC&TK.png"></img>
+</div>
 
 ## Giao diện trang web
 

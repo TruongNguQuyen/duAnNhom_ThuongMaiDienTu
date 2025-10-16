@@ -68,6 +68,7 @@
 <div align="center">
     <img height="400" src="Images/DFD2_PD_BC&TK.png"></img>
 </div>
+10. Sơ đồ PMD vật lý
 
 ## Giao diện trang web
 

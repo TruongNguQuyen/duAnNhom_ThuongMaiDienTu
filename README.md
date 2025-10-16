@@ -56,6 +56,10 @@
 <div align="center">
     <img height="400" src="Images/DFD_PD_QLTT&LH.png"></img>
 </div>
+8. DFD mức 2 (chức năng quản lý người dùng)
+<div align="center">
+    <img height="400" src="Images/DFD2_PD_QLND.png"></img>
+</div>
 
 ## Giao diện trang web
 

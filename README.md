@@ -48,10 +48,19 @@
 <div align="center">
     <img height="400" src="Images/DFD2_PD.jpg"></img>
 </div>
+6. DFD mức 2 (chức năng quản lý sản phẩm)
+<div align="center">
+    <img height="400" src="Images/DFD2_PD_QLSP.png"></img>
+</div>
 
 ## Giao diện trang web
+
 Sắp có...
+
 ## Đường dẫn website
+
 Sắp có...
+
 ## Video demo sản phẩm
+
 Sắp có...

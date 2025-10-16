@@ -52,6 +52,10 @@
 <div align="center">
     <img height="400" src="Images/DFD2_PD_QLSP.png"></img>
 </div>
+7. DFD mức 2 (chức năng quản lý tin tức & liên hệ)
+<div align="center">
+    <img height="400" src="Images/DFD_PD_QLTT&LH.png"></img>
+</div>
 
 ## Giao diện trang web
 

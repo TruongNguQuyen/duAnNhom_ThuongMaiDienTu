@@ -19,6 +19,10 @@
 | 3.  | Nguyễn Thị Hồng Nhi | 65132472 | Thành viên  |
 | 4.  |   Nguyễn Lê Thịnh   | 64132299 | Thành viên  |
 
+<div align="center">
+    <img height="400" src="https://i.pinimg.com/originals/f9/4e/65/f94e657a802d5a1ecbe644c649748f57.gif"></img>
+</div>
+
 ## Giới thiệu
 
 - Giới thiệu chung:

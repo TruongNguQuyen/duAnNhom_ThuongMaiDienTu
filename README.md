@@ -8,7 +8,7 @@
 
 - Trường Đại học Nha Trang NTU
 - GVHD: Ths. Nguyễn Thị Hương Lý
-- Nhóm sinh viên thực hiện: nhóm ??
+- Nhóm sinh viên thực hiện: nhóm 5
 
 #### Danh sách thành viên
 

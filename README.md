@@ -72,6 +72,9 @@
     <img height="400" src="Images/DFD2_PD_BC&TK.png"></img>
 </div>
 10. Sơ đồ ERD vật lý
+<div align="center">
+    <img height="400" src="Images/ERD_PD.png"></img>
+</div>
 
 ## Đường dẫn website
 

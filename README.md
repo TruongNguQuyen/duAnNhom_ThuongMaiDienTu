@@ -70,13 +70,9 @@
 </div>
 10. Sơ đồ PMD vật lý
 
-## Giao diện trang web
-
-Sắp có...
-
 ## Đường dẫn website
 
-Sắp có...
+https://nhom5tmdt.shop/
 
 ## Video demo sản phẩm
 

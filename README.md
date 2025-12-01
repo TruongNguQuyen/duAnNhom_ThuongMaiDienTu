@@ -36,6 +36,9 @@
 ## Các sơ đồ thiết kế
 
 1. UseCase diagram
+<div align="center">
+    <img height="800" src="Images/Usecase.png"></img>
+</div>
 2. BFD
 <div align="center">
     <img height="800" src="Images/BFD_PD.jpg"></img>

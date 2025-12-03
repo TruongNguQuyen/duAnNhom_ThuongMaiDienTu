@@ -78,8 +78,8 @@
 
 ## Đường dẫn website
 
-https://nhom5tmdt.shop/
+(https://nhom5tmdt.shop/)
 
 ## Video demo sản phẩm
 
-Sắp có...
+(https://www.youtube.com/watch?v=33pQVbXLbiQ)
